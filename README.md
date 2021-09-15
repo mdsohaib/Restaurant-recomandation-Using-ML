@@ -1,4 +1,4 @@
-<div align="center"> <img src="Screenshots/main.png" width="400" height="250"> </center> </div>
+<div align="center"> <img src="Screenshots/main.jfif" width="400" height="250"> </center> </div>
 
 <i>
   
